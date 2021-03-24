@@ -1,2 +1,2 @@
 # calculator
-fo midterm project
+for midterm project
